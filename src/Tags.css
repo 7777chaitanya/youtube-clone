@@ -1,0 +1,19 @@
+p{
+    border: 0.5px rgb(240, 237, 237) solid;
+    
+    background-color: #E5E5E5;
+    color: #191919;
+    border-radius: 16px;
+    font: 12px;
+    height: 32px;
+    align-items: center;
+   
+    padding: 5px 12px 5px 12px;
+    margin: 0px 12px 0px 12px;
+    cursor: pointer;
+
+}
+
+padding-left: 10px;
+    padding-right: 10px;
+  

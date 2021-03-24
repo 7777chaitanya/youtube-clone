@@ -1,0 +1,36 @@
+.videocard__info{
+    display: flex;
+    margin-top: 10px;
+}
+
+.videocard__info > .videocard__text{
+    flex: 0.8;
+    margin-left: 10px;
+}
+
+.videocard__info > videocard__channelImage{
+    flex: 0.2;
+    height: 30px !important;
+    width: 30px !important;
+}
+
+.videocard__thumbnail{
+    width: 250px;
+    height: 140px;
+}
+
+.videocard{
+    margin-bottom: 40px;
+    width: 290px;
+    /* margin-right: 10px; */
+}
+
+.videoCard__title{
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.videocard__text > p{
+    font-size: 14px;
+    color: #606060;
+}
