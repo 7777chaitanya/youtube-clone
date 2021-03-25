@@ -10,7 +10,7 @@ function RecommendedVideos() {
            <h2>Recommended</h2>
            <div className="recommendedVideos__videos">
                 <Videocard 
-                thumbnail="https://i.ytimg.com/an_webp/8ULXqEx6KQc/mqdefault_6s.webp?du=3000&sqp=CJHr64IG&rs=AOn4CLDJvxPi6T0zOx7-usizwlTCDvCSrA"
+                thumbnail="https://i.ytimg.com/an_webp/8ULXqEx6KQc/mqdefault_6s.webp?du=3000&sqp=CPey8YIG&rs=AOn4CLAlmeyWpnKXGc1bsUzeYuQTvbP7gA"
                 channelImage= "https://yt3.ggpht.com/ytc/AAUvwnihc2UYFrTZ52dqQb25u_ARAIlHbhmwAMlz9Zf-=s68-c-k-c0x00ffffff-no-rj"
                 title="Best laptops for programming? ..."
                 channelName= "CS Dojo"
@@ -18,7 +18,7 @@ function RecommendedVideos() {
                 timeStamp= "2 years ago"
                 />
                 <Videocard 
-                thumbnail="https://i.ytimg.com/an_webp/8ULXqEx6KQc/mqdefault_6s.webp?du=3000&sqp=CJHr64IG&rs=AOn4CLDJvxPi6T0zOx7-usizwlTCDvCSrA"
+                thumbnail="https://i.ytimg.com/an_webp/8ULXqEx6KQc/mqdefault_6s.webp?du=3000&sqp=CPey8YIG&rs=AOn4CLAlmeyWpnKXGc1bsUzeYuQTvbP7gA"
                 channelImage= "https://yt3.ggpht.com/ytc/AAUvwnihc2UYFrTZ52dqQb25u_ARAIlHbhmwAMlz9Zf-=s68-c-k-c0x00ffffff-no-rj"
                 title="Best laptops for programming? ..."
                 channelName= "CS Dojo"
@@ -26,7 +26,7 @@ function RecommendedVideos() {
                 timeStamp= "2 years ago"
                 />
                 <Videocard 
-                thumbnail="https://i.ytimg.com/an_webp/8ULXqEx6KQc/mqdefault_6s.webp?du=3000&sqp=CJHr64IG&rs=AOn4CLDJvxPi6T0zOx7-usizwlTCDvCSrA"
+                thumbnail="https://i.ytimg.com/an_webp/8ULXqEx6KQc/mqdefault_6s.webp?du=3000&sqp=CPey8YIG&rs=AOn4CLAlmeyWpnKXGc1bsUzeYuQTvbP7gA"
                 channelImage= "https://yt3.ggpht.com/ytc/AAUvwnihc2UYFrTZ52dqQb25u_ARAIlHbhmwAMlz9Zf-=s68-c-k-c0x00ffffff-no-rj"
                 title="Best laptops for programming? ..."
                 channelName= "CS Dojo"
@@ -34,7 +34,7 @@ function RecommendedVideos() {
                 timeStamp= "2 years ago"
                 />
                 <Videocard 
-                thumbnail="https://i.ytimg.com/an_webp/8ULXqEx6KQc/mqdefault_6s.webp?du=3000&sqp=CJHr64IG&rs=AOn4CLDJvxPi6T0zOx7-usizwlTCDvCSrA"
+                thumbnail="https://i.ytimg.com/an_webp/8ULXqEx6KQc/mqdefault_6s.webp?du=3000&sqp=CPey8YIG&rs=AOn4CLAlmeyWpnKXGc1bsUzeYuQTvbP7gA"
                 channelImage= "https://yt3.ggpht.com/ytc/AAUvwnihc2UYFrTZ52dqQb25u_ARAIlHbhmwAMlz9Zf-=s68-c-k-c0x00ffffff-no-rj"
                 title="Best laptops for programming? ..."
                 channelName= "CS Dojo"
@@ -42,7 +42,7 @@ function RecommendedVideos() {
                 timeStamp= "2 years ago"
                 />
                 <Videocard 
-                thumbnail="https://i.ytimg.com/an_webp/8ULXqEx6KQc/mqdefault_6s.webp?du=3000&sqp=CJHr64IG&rs=AOn4CLDJvxPi6T0zOx7-usizwlTCDvCSrA"
+                thumbnail="https://i.ytimg.com/an_webp/8ULXqEx6KQc/mqdefault_6s.webp?du=3000&sqp=CPey8YIG&rs=AOn4CLAlmeyWpnKXGc1bsUzeYuQTvbP7gA"
                 channelImage= "https://yt3.ggpht.com/ytc/AAUvwnihc2UYFrTZ52dqQb25u_ARAIlHbhmwAMlz9Zf-=s68-c-k-c0x00ffffff-no-rj"
                 title="Best laptops for programming? ..."
                 channelName= "CS Dojo"
@@ -50,7 +50,7 @@ function RecommendedVideos() {
                 timeStamp= "2 years ago"
                 />
                 <Videocard 
-                thumbnail="https://i.ytimg.com/an_webp/8ULXqEx6KQc/mqdefault_6s.webp?du=3000&sqp=CJHr64IG&rs=AOn4CLDJvxPi6T0zOx7-usizwlTCDvCSrA"
+                thumbnail="https://i.ytimg.com/an_webp/8ULXqEx6KQc/mqdefault_6s.webp?du=3000&sqp=CPey8YIG&rs=AOn4CLAlmeyWpnKXGc1bsUzeYuQTvbP7gA"
                 channelImage= "https://yt3.ggpht.com/ytc/AAUvwnihc2UYFrTZ52dqQb25u_ARAIlHbhmwAMlz9Zf-=s68-c-k-c0x00ffffff-no-rj"
                 title="Best laptops for programming? ..."
                 channelName= "CS Dojo"
@@ -58,7 +58,7 @@ function RecommendedVideos() {
                 timeStamp= "2 years ago"
                 />
                 <Videocard 
-                thumbnail="https://i.ytimg.com/an_webp/8ULXqEx6KQc/mqdefault_6s.webp?du=3000&sqp=CJHr64IG&rs=AOn4CLDJvxPi6T0zOx7-usizwlTCDvCSrA"
+                thumbnail="https://i.ytimg.com/an_webp/8ULXqEx6KQc/mqdefault_6s.webp?du=3000&sqp=CPey8YIG&rs=AOn4CLAlmeyWpnKXGc1bsUzeYuQTvbP7gA"
                 channelImage= "https://yt3.ggpht.com/ytc/AAUvwnihc2UYFrTZ52dqQb25u_ARAIlHbhmwAMlz9Zf-=s68-c-k-c0x00ffffff-no-rj"
                 title="Best laptops for programming? ..."
                 channelName= "CS Dojo"
@@ -66,7 +66,7 @@ function RecommendedVideos() {
                 timeStamp= "2 years ago"
                 />
                 <Videocard 
-                thumbnail="https://i.ytimg.com/an_webp/8ULXqEx6KQc/mqdefault_6s.webp?du=3000&sqp=CJHr64IG&rs=AOn4CLDJvxPi6T0zOx7-usizwlTCDvCSrA"
+                thumbnail="https://i.ytimg.com/an_webp/8ULXqEx6KQc/mqdefault_6s.webp?du=3000&sqp=CPey8YIG&rs=AOn4CLAlmeyWpnKXGc1bsUzeYuQTvbP7gA"
                 channelImage= "https://yt3.ggpht.com/ytc/AAUvwnihc2UYFrTZ52dqQb25u_ARAIlHbhmwAMlz9Zf-=s68-c-k-c0x00ffffff-no-rj"
                 title="Best laptops for programming? ..."
                 channelName= "CS Dojo"
@@ -74,7 +74,7 @@ function RecommendedVideos() {
                 timeStamp= "2 years ago"
                 />
                 <Videocard 
-                thumbnail="https://i.ytimg.com/an_webp/8ULXqEx6KQc/mqdefault_6s.webp?du=3000&sqp=CJHr64IG&rs=AOn4CLDJvxPi6T0zOx7-usizwlTCDvCSrA"
+                thumbnail="https://i.ytimg.com/an_webp/8ULXqEx6KQc/mqdefault_6s.webp?du=3000&sqp=CPey8YIG&rs=AOn4CLAlmeyWpnKXGc1bsUzeYuQTvbP7gA"
                 channelImage= "https://yt3.ggpht.com/ytc/AAUvwnihc2UYFrTZ52dqQb25u_ARAIlHbhmwAMlz9Zf-=s68-c-k-c0x00ffffff-no-rj"
                 title="Best laptops for programming? ..."
                 channelName= "CS Dojo"
@@ -82,7 +82,7 @@ function RecommendedVideos() {
                 timeStamp= "2 years ago"
                 />
                 <Videocard 
-                thumbnail="https://i.ytimg.com/an_webp/8ULXqEx6KQc/mqdefault_6s.webp?du=3000&sqp=CJHr64IG&rs=AOn4CLDJvxPi6T0zOx7-usizwlTCDvCSrA"
+                thumbnail="https://i.ytimg.com/an_webp/8ULXqEx6KQc/mqdefault_6s.webp?du=3000&sqp=CPey8YIG&rs=AOn4CLAlmeyWpnKXGc1bsUzeYuQTvbP7gA"
                 channelImage= "https://yt3.ggpht.com/ytc/AAUvwnihc2UYFrTZ52dqQb25u_ARAIlHbhmwAMlz9Zf-=s68-c-k-c0x00ffffff-no-rj"
                 title="Best laptops for programming? ..."
                 channelName= "CS Dojo"
@@ -90,7 +90,7 @@ function RecommendedVideos() {
                 timeStamp= "2 years ago"
                 />
                 <Videocard 
-                thumbnail="https://i.ytimg.com/an_webp/8ULXqEx6KQc/mqdefault_6s.webp?du=3000&sqp=CJHr64IG&rs=AOn4CLDJvxPi6T0zOx7-usizwlTCDvCSrA"
+                thumbnail="https://i.ytimg.com/an_webp/8ULXqEx6KQc/mqdefault_6s.webp?du=3000&sqp=CPey8YIG&rs=AOn4CLAlmeyWpnKXGc1bsUzeYuQTvbP7gA"
                 channelImage= "https://yt3.ggpht.com/ytc/AAUvwnihc2UYFrTZ52dqQb25u_ARAIlHbhmwAMlz9Zf-=s68-c-k-c0x00ffffff-no-rj"
                 title="Best laptops for programming? ..."
                 channelName= "CS Dojo"
@@ -98,7 +98,7 @@ function RecommendedVideos() {
                 timeStamp= "2 years ago"
                 />
                 <Videocard 
-                thumbnail="https://i.ytimg.com/an_webp/8ULXqEx6KQc/mqdefault_6s.webp?du=3000&sqp=CJHr64IG&rs=AOn4CLDJvxPi6T0zOx7-usizwlTCDvCSrA"
+                thumbnail="https://i.ytimg.com/an_webp/8ULXqEx6KQc/mqdefault_6s.webp?du=3000&sqp=CPey8YIG&rs=AOn4CLAlmeyWpnKXGc1bsUzeYuQTvbP7gA"
                 channelImage= "https://yt3.ggpht.com/ytc/AAUvwnihc2UYFrTZ52dqQb25u_ARAIlHbhmwAMlz9Zf-=s68-c-k-c0x00ffffff-no-rj"
                 title="Best laptops for programming? ..."
                 channelName= "CS Dojo"
